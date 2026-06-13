@@ -15,6 +15,6 @@ $$ \sin^{(n)} = \sin(x + n \frac{\pi}{2})$$
 
 We need also the formula for the product rule of higher derivatives (so-called Leibniz rule):
 
-$$ (fg)^{(n)} = \sum^{n}_{k=0} { n \choose k } f^{(k)}g^{(n-k)} $$
+$$ (fg)^{(n)} = \sum^{n}_{k=0} { n \choose k } f^{(n-k)}g^{(k)} $$
 
 analogous to the binomial sum
