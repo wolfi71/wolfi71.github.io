@@ -11,4 +11,4 @@ $$ \sin(x) = \tan(x) \cos(x) $$
 
 We know that 
 
-$$ \sin^{n)} = \sin(x + n \frac{\pi}{2}$$
+$$ \sin^{(n)} = \sin(x + n \frac{\pi}{2})$$
