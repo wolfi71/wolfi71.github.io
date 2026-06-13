@@ -8,3 +8,7 @@ Fortunately we can simplify the whole thing by using some formulas.
 First we write the sine in terms of tangens and cosine:
 
 $$ \sin(x) = \tan(x) \cos(x) $$
+
+We know that 
+
+$$ \sin^{n)} = \sin(x + n \frac{\pi}{2}$$
