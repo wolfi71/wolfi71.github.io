@@ -11,7 +11,7 @@ $$ \sin(x) = \tan(x) \cos(x) $$
 
 We know that 
 
-$$ \sin^{(n)} = \sin(x + n \frac{\pi}{2})$$
+$$ \sin^{(n)}(x) = \sin(x + n \frac{\pi}{2})$$
 
 We need also the formula for the product rule of higher derivatives (so-called Leibniz rule):
 
@@ -24,5 +24,6 @@ Bringing this all together we get:
 $$ \sin(x + n \frac{pi}{2}) = \tan^{(n)}(x)\cos(x) - { n \choose 1} \tan^{(n-1)}\sin(x) - { n \choose 2} \tan^{(n-2)}\cos(x) + {n \choose 3} \tan^{(n-3)}\sin(x) + { n \choose 4} \tan^{(n-1)}cos(x) - {n \choose 5}\tan^{(n-5)}sin(x) - \ldots$$
 
 Taking for $x = 0$, we get ($\sin(0) = 0$, $\cos(0) = 1$):
-$$ \sin( n \frac{\pi}{2}) = \tan^{n}(0) - {n \choose 2} \tan^{(n-2)}(0) + {n \choose 4}\tan^{(n-4)}(0) - {n \choose 6}\tan^{(n-6)}(0)$$
+
+$$ \sin( n \frac{\pi}{2}) = \tan^{n}(0) - {n \choose 2} \tan^{(n-2)}(0) + {n \choose 4}\tan^{(n-4)}(0) - {n \choose 6}\tan^{(n-6)}(0) $$
 
