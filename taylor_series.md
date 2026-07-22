@@ -25,5 +25,5 @@ $$ \sin(x + n \frac{pi}{2}) = \tan^{(n)}(x)\cos(x) - { n \choose 1} \tan^{(n-1)}
 
 Taking for $x = 0$, we get ($\sin(0) = 0$, $\cos(0) = 1$):
 
-$$ \sin( n \frac{\pi}{2}) = \tan^{n}(0) - {n \choose 2} \tan^{(n-2)}(0) + {n \choose 4}\tan^{(n-4)}(0) - {n \choose 6}\tan^{(n-6)}(0) $$
+$$ \sin( n \frac{\pi}{2}) = \tan^{n}(0) - {n \choose 2} \tan^{(n-2)}(0) + {n \choose 4}\tan^{(n-4)}(0) - {n \choose 6}\tan^{(n-6)}(0) + \ldots $$
 
