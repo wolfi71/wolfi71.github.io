@@ -21,4 +21,4 @@ analogous to the binomial sum.
 
 Bringing this all together we get:
 
-$$ \sin(x + n \frac{pi}{2}) = \tan^{(n)}(x)\cos(x) - { n \choose 1} tan^{(n-1)\sin(x) - { n \choose 2} \tan^{(n-2)}\cos(x) + {n \choose 3} \tan^{(n-3)}\sin(x) + { n \choose 4} \tan^{(n-1)}cos(x) - {n \choose 5}\tan^{(n-5)}sin(x) - \ldots$$
+$$ \sin(x + n \frac{pi}{2}) = \tan^{(n)}(x)\cos(x) - { n \choose 1} tan^{(n-1)}\sin(x) - { n \choose 2} \tan^{(n-2)}\cos(x) + {n \choose 3} \tan^{(n-3)}\sin(x) + { n \choose 4} \tan^{(n-1)}cos(x) - {n \choose 5}\tan^{(n-5)}sin(x) - \ldots$$
