@@ -29,4 +29,4 @@ $$ \sin( n \frac{\pi}{2}) = \tan^{n}(0) - {n \choose 2} \tan^{(n-2)}(0) + {n \ch
 
 We see from the equation that even derivatives are zero at $x=0$.
 
-Taking now $n=1$, we get $\tan^{\prime}(0) = 1$, for $n=3$: $ \tan^{\prime\prime\prime}(0) = -1+ {3 choose 2}\tan^{\prime}(0)= 2$  
+Taking now $n=1$, we get $\tan^{\prime}(0) = 1$, for $n=3$: $\tan^{\prime\prime\prime}(0) = -1 + {3 \choose 2}\tan^{\prime}(0)= 2$  
