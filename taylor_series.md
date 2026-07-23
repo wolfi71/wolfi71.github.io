@@ -27,4 +27,6 @@ Taking for $x = 0$, we get ($\sin(0) = 0$, $\cos(0) = 1$):
 
 $$ \sin( n \frac{\pi}{2}) = \tan^{n}(0) - {n \choose 2} \tan^{(n-2)}(0) + {n \choose 4}\tan^{(n-4)}(0) - {n \choose 6}\tan^{(n-6)}(0) + \ldots $$
 
-Taking now $n=1$, we get $\tan\prime(0) = 1$, 
+We see from the equation that even derivatives are zero at $x=0$.
+
+Taking now $n=1$, we get $\tan^{\prime}(0) = 1$, 
