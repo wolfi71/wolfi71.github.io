@@ -34,4 +34,4 @@ for $n=5$ : $ \tan^{(5)}(0) =  1 + {5 \choose 2} 2 - {5 \choose 4} 2 = 16$ ,
 
 
 for $n=7$ we get :
-$$ \tan^{(7)}(0)= -1 + { 7 \choose 2} 16 - {7 \choose 4} 2 + {7 \choose 2} 1 = 272 $$
+$ \tan^{(7)}(0)= -1 + { 7 \choose 2} 16 - {7 \choose 4} 2 + {7 \choose 2} 1 = 272 $
