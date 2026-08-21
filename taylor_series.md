@@ -30,5 +30,6 @@ $$ \sin( n \frac{\pi}{2}) = \tan^{n}(0) - {n \choose 2} \tan^{(n-2)}(0) + {n \ch
 We see from the equation that even derivatives are zero at $x=0$.
 
 Taking now $n=1$, we get $\tan^{\prime}(0) = 1$, for $n=3$: $\tan^{\prime\prime\prime}(0) = -1 + {3 \choose 2}\tan^{\prime}(0)= 2$,
-for $n=5$ : $ \tan^{(5)}(0) =  1 + {5 \choose 2} 2 - {5 \choose 4} 2 = 16$ , for $n=7$ we get :
+for $n=5$ : $ \tan^{(5)}(0) =  1 + {5 \choose 2} 2 - {5 \choose 4} 2 = 16$ , \\
+for $n=7$ we get :
 $$ \tan^{(7)}(0)= -1 + { 7 \choose 2} 16 - {7 \choose 4} 2 + {7 \choose 2} 1 = 272 $$
